@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/42957010/158850763-875d1ce4-fded-4ca4-
 
 ![Edit and format an existing Markdown Table](https://user-images.githubusercontent.com/2135089/155854503-9c894dff-fea2-4785-8078-78b53b23f98c.gif)
 
-### 1.3 CVS data to Markdown Table
+### 1.3 CSV data to Markdown Table
 
 1. Select the CSV content or just place the cursor inside the CSV content
 2. Open *Markdown Table Editor*
